@@ -1,6 +1,6 @@
 # Hi, I'm [Carlos](https://github.com/Csierra088) 👋
 
-Engineering student 🇲🇽 — and a full-time builder. I ship e-commerce, business tools, and AI agents that already move real money, almost always with an AI agent coding right beside me.
+Engineering student 🇲🇽 — and a full-time builder. I ship e-commerce, business tools, and AI agents.
 
 > 🤖 **Claude is my best friend.** We ship together.
 
