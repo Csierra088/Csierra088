@@ -36,22 +36,22 @@ Engineering student 🇲🇽 — and a full-time builder. I ship e-commerce, bus
 
 My flagship store: e-commerce for radio communications, electronic security, and access control — selling across web and social with a catalog of thousands of products synced and enriched automatically.
 
-- [sierrastore.mx](https://sierrastore.mx) — Main store (Shopify), catalog sync, SEO, and content generated at scale.
-- [integradores.sierrastore.mx](https://integradores.sierrastore.mx) — B2B portal for integrators (Astro + Cloudflare Workers + D1).
+- **Main store** on Shopify, with automated catalog sync, SEO, and content generated at scale.
+- **B2B portal for integrators**, built with Astro + Cloudflare Workers + D1.
 
 ### 🏗️ Connexum Ingeniería
 
 Internal platforms for an engineering company in telecom and infrastructure — turning hours of manual work into one-click flows.
 
-- [connexum.mx](https://www.connexum.mx) — Corporate site (Next.js + Sanity, self-hosted on Cloudflare).
-- **Precotizaciones** — Quoting and approval app with a multi-role workflow, critical cost calculations, and direct ERP integration (React + Supabase, deployed on my own VPS).
+- **Corporate site** built with Next.js + Sanity, self-hosted on Cloudflare.
+- **Quoting & approval app** with a multi-role workflow, critical cost calculations, and direct ERP integration (React + Supabase, deployed on my own VPS).
 
 ### 🖨️ Sierra Print Lab
 
 3D printing + multi-channel sales, with its own inventory and catalog system.
 
-- [printlab.sierraco.mx](https://printlab.sierraco.mx) — Multi-channel web inventory (single-file + Supabase + Cloudflare Workers).
-- [sierraprintlab.com](https://sierraprintlab.com) — Public catalog.
+- **Multi-channel web inventory** (single-file + Supabase + Cloudflare Workers).
+- **Public product catalog** built on Cloudflare Pages.
 
 ### 🤖 AI & Automation
 
